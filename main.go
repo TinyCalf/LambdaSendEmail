@@ -40,9 +40,9 @@ func sendMail(username, useraddress, password, host, to, subject, body, mailtype
 
 var (
 	host        = "smtp.163.com:25"
-	username    = "TinyCalf"
-	useraddress = "15061519070@163.com"
-	password    = "77e7c96a"
+	username    = "<yourname>"
+	useraddress = "<youremail>"
+	password    = "<yourpassword>"
 )
 
 // HandleRequest handler
